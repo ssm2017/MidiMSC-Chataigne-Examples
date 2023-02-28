@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.9.60/MA.xsd" major_vers="3" minor_vers="9" stream_vers="60">
+	<Info datetime="2023-02-19T18:37:30" showfile="new show 2023-02-16" />
+	<Macro index="0" name="gmamsc-Resol 0.1">
+		<Appearance Color="ffffff" />
+		<Macroline index="0">
+			<text>SetUserVar ENC_RES At &quot;0.1&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="1" name="gmamsc-Resol 1">
+		<Appearance Color="ffffff" />
+		<Macroline index="0">
+			<text>SetUserVar ENC_RES At &quot;1&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="2" name="gmamsc-Resol 3">
+		<Appearance Color="ffffff" />
+		<Macroline index="0">
+			<text>SetUserVar ENC_RES At &quot;3&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="3" name="gmamsc-Resol 1#2">
+		<Appearance Color="ffffff" />
+		<Macroline index="0">
+			<text>SetUserVar ENC_RES At &quot;1&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="4" name="gmamsc-Resol 0.1#2">
+		<Appearance Color="ffffff" />
+		<Macroline index="0">
+			<text>SetUserVar ENC_RES At &quot;0.1&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="5" name="gmamsc-Resol 1#3">
+		<Appearance Color="ffffff" />
+		<Macroline index="0">
+			<text>SetUserVar ENC_RES At &quot;1&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="6" name="gmamsc-Resol 0.1#3">
+		<Appearance Color="ffffff" />
+		<Macroline index="0">
+			<text>SetUserVar ENC_RES At &quot;0.1&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="7" name="gmamsc-Off Dim">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;DIM&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="8" name="gmamsc-Off Shutter">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;SHUTTER&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="9" name="gmamsc-Off Pan">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;PAN&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="10" name="gmamsc-Off Tilt">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;TILT&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="11" name="gmamsc-Off Color1">
+		<Appearance Color="7f00ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;COLOR1&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="12" name="gmamsc-Off Focus">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;FOCUS&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="13" name="gmamsc-Off Zoom">
+		<Appearance Color="7f00ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;ZOOM&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="14" name="gmamsc-Off Iris">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;IRIS&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="15" name="gmamsc-Dim(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;DIM&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="16" name="gmamsc-Shutter(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;SHUTTER&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="17" name="gmamsc-Pan(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;PAN&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="18" name="gmamsc-Tilt(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;TILT&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="19" name="gmamsc-Color1(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLOR1&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="20" name="gmamsc-Focus(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;FOCUS&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="21" name="gmamsc-Zoom(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;ZOOM&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="22" name="gmamsc-Iris(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;IRIS&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="23" name="gmamsc-Dim(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;DIM&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="24" name="gmamsc-Shutter(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;SHUTTER&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="25" name="gmamsc-Pan(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;PAN&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="26" name="gmamsc-Tilt(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;TILT&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="27" name="gmamsc-Color1(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLOR1&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="28" name="gmamsc-Focus(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;FOCUS&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="29" name="gmamsc-Zoom(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;ZOOM&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="30" name="gmamsc-Iris(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;IRIS&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="31" name="gmamsc-Off Color1#2">
+		<Appearance Color="7f00ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;COLOR1&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="32" name="gmamsc-Off Color2">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;COLOR2&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="33" name="gmamsc-Off ColorMixer">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;COLORMIXER&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="34" name="gmamsc-Off ColorRGB1">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;COLORRGB1&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="35" name="gmamsc-Off ColorRGB2">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;COLORRGB2&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="36" name="gmamsc-Off ColorRGB3">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;COLORRGB3&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="37" name="gmamsc-Off ColorRGB4">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;COLORRGB4&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="38" name="gmamsc-Off ColorRGB5">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;ColorRGB5&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="39" name="gmamsc-Color1(+)#2">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLOR1&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="40" name="gmamsc-Color2(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLOR2&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="41" name="gmamsc-ColorMixer(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLORMIXER&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="42" name="gmamsc-ColorRGB1(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLORRGB1&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="43" name="gmamsc-ColorRGB2(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLORRGB2&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="44" name="gmamsc-ColorRGB3(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLORRGB3&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="45" name="gmamsc-ColorRGB4(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLORRGB4&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="46" name="gmamsc-ColorRGB5(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLORRGB5&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="47" name="gmamsc-Color1(-)#2">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLOR1&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="48" name="gmamsc-Color2(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLOR2&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="49" name="gmamsc-ColorMixer(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLORMIXER&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="50" name="gmamsc-ColorRGB1(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLORRGB1&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="51" name="gmamsc-ColorRGB2(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLORRGB2&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="52" name="gmamsc-ColorRGB3(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLORRGB3&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="53" name="gmamsc-ColorRGB4(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLORRGB4&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="54" name="gmamsc-ColorRGB5(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;COLORRGB5&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="55" name="gmamsc-Off Gobo1#2">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;GOBO1&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="56" name="gmamsc-Off Gobo1&lt;&gt;">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;GOBO1_POS&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="57" name="gmamsc-Off Gobo2&lt;&gt;">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;GOBO2_POS&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="58" name="gmamsc-Off Gobo2&lt;&gt;">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;GOBO2_POS&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="59" name="gmamsc-Off Gobo3">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;GOBO3&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="60" name="gmamsc-Off Effect">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;EFFECTWHEEL&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="61" name="gmamsc-Off Effect&lt;&gt;">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;EFFECTWHEELINDEXROTATE&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="62" name="gmamsc-Off Focus#2">
+		<Appearance Color="8800ff" />
+		<Macroline index="0">
+			<text>Off Attribute &quot;FOCUS&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="63" name="gmamsc-Gobo1(+)#2">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;GOBO1&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="64" name="gmamsc-Gobo1&lt;&gt;(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;GOBO1_POS&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="65" name="gmamsc-Gobo2(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;GOBO2&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="66" name="gmamsc-Gobo2&lt;&gt;1(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;GOBO2_POS&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="67" name="gmamsc-Gobo3(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;GOBO3&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="68" name="gmamsc-Effect(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;EFFECTWHEEL&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="69" name="gmamsc-Effect&lt;&gt;(+)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;EFFECTWHEELINDEXROTATE&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="70" name="gmamsc-Focus(+)#2">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;FOCUS&quot; At + $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="71" name="gmamsc-Gobo1(-)#2">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;GOBO1&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="72" name="gmamsc-Gobo1&lt;&gt;(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;GOBO1_POS&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="73" name="gmamsc-Gobo2(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;GOBO2&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="74" name="gmamsc-Gobo2&lt;&gt;(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;GOBO2_POS&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="75" name="gmamsc-Gobo3(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;GOBO3&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="76" name="gmamsc-Effect(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;EFFECTWHEEL&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="77" name="gmamsc-Effect&lt;&gt;(-)">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;EFFECTWHEELINDEXROTATE&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="78" name="gmamsc-Focus(-)#2">
+		<Appearance Color="ffff00" />
+		<Macroline index="0">
+			<text>Attribute &quot;FOCUS&quot; At - $ENC_RES</text>
+		</Macroline>
+	</Macro>
+	<Macro index="79" name="PresetType Dimmer">
+		<Macroline index="0">
+			<text>PresetType &quot;DIMMER&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="80" name="PresetType Position">
+		<Macroline index="0">
+			<text>PresetType &quot;POSITION&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="81" name="PresetType Gobo">
+		<Macroline index="0">
+			<text>PresetType &quot;GOBO&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="82" name="PresetType Color">
+		<Macroline index="0">
+			<text>PresetType &quot;COLOR&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="83" name="PresetType Beam">
+		<Macroline index="0">
+			<text>PresetType &quot;BEAM&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="84" name="PresetType Focus">
+		<Macroline index="0">
+			<text>PresetType &quot;FOCUS&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="85" name="PresetType Control">
+		<Macroline index="0">
+			<text>PresetType &quot;CONTROL&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="86" name="PresetType Shapers">
+		<Macroline index="0">
+			<text>PresetType &quot;SHAPERS&quot;</text>
+		</Macroline>
+	</Macro>
+</MA>

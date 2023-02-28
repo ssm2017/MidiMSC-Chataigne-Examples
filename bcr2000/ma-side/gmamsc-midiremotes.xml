@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.9.60/MA.xsd" major_vers="3" minor_vers="9" stream_vers="60">
+	<Info datetime="2023-02-19T18:35:07" showfile="new show 2023-02-16" />
+	<MidiRemotes index="1">
+		<RemoteMidi index="0" note="1" type="macro_line">
+			<macro_line>Macro 320</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="1" note="2" type="macro_line">
+			<macro_line>Macro 328</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="2" note="3" type="macro_line">
+			<macro_line>Macro 321</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="3" note="4" type="macro_line">
+			<macro_line>Macro 329</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="4" note="5" type="macro_line">
+			<macro_line>Macro 322</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="5" note="6" type="macro_line">
+			<macro_line>Macro 330</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="6" note="7" type="macro_line">
+			<macro_line>Macro 323</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="7" note="8" type="macro_line">
+			<macro_line>Macro 331</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="8" note="9" type="macro_line">
+			<macro_line>Macro 324</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="9" note="10" type="macro_line">
+			<macro_line>Macro 332</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="10" note="11" type="macro_line">
+			<macro_line>Macro 325</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="11" note="12" type="macro_line">
+			<macro_line>Macro 333</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="12" note="13" type="macro_line">
+			<macro_line>Macro 326</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="13" note="14" type="macro_line">
+			<macro_line>Macro 334</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="14" note="15" type="macro_line">
+			<macro_line>Macro 327</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="15" note="16" type="macro_line">
+			<macro_line>Macro 335</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="16" note="17" type="macro_line">
+			<macro_line>Macro 344</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="17" note="18" type="macro_line">
+			<macro_line>Macro 352</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="18" note="19" type="macro_line">
+			<macro_line>Macro 345</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="19" note="20" type="macro_line">
+			<macro_line>Macro 353</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="20" note="21" type="macro_line">
+			<macro_line>Macro 346</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="21" note="22" type="macro_line">
+			<macro_line>Macro 354</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="22" note="23" type="macro_line">
+			<macro_line>Macro 347</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="23" note="24" type="macro_line">
+			<macro_line>Macro 355</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="24" note="25" type="macro_line">
+			<macro_line>Macro 348</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="25" note="26" type="macro_line">
+			<macro_line>Macro 356</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="26" note="27" type="macro_line">
+			<macro_line>Macro 349</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="27" note="28" type="macro_line">
+			<macro_line>Macro 357</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="28" note="29" type="macro_line">
+			<macro_line>Macro 350</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="29" note="30" type="macro_line">
+			<macro_line>Macro 358</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="30" note="31" type="macro_line">
+			<macro_line>Macro 351</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="31" note="32" type="macro_line">
+			<macro_line>Macro 359</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="32" note="33" type="macro_line">
+			<macro_line>Macro 368</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="33" note="34" type="macro_line">
+			<macro_line>Macro 376</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="34" note="35" type="macro_line">
+			<macro_line>Macro 369</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="35" note="36" type="macro_line">
+			<macro_line>Macro 377</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="36" note="37" type="macro_line">
+			<macro_line>Macro 370</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="37" note="38" type="macro_line">
+			<macro_line>Macro 378</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="38" note="39" type="macro_line">
+			<macro_line>Macro 371</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="39" note="40" type="macro_line">
+			<macro_line>Macro 379</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="40" note="41" type="macro_line">
+			<macro_line>Macro 372</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="41" note="42" type="macro_line">
+			<macro_line>Macro 380</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="42" note="43" type="macro_line">
+			<macro_line>Macro 373</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="43" note="44" type="macro_line">
+			<macro_line>Macro 381</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="44" note="45" type="macro_line">
+			<macro_line>Macro 374</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="45" note="46" type="macro_line">
+			<macro_line>Macro 382</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="46" note="47" type="macro_line">
+			<macro_line>Macro 375</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="47" note="48" type="macro_line">
+			<macro_line>Macro 383</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="48" note="65" type="macro_line">
+			<macro_line>Macro 312</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="49" note="66" type="macro_line">
+			<macro_line>Macro 313</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="50" note="67" type="macro_line">
+			<macro_line>Macro 314</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="51" note="68" type="macro_line">
+			<macro_line>Macro 315</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="52" note="69" type="macro_line">
+			<macro_line>Macro 316</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="53" note="70" type="macro_line">
+			<macro_line>Macro 317</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="54" note="71" type="macro_line">
+			<macro_line>Macro 318</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="55" note="72" type="macro_line">
+			<macro_line>Macro 319</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="56" note="78" type="macro_line">
+			<macro_line>Macro 341</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="57" note="77" type="macro_line">
+			<macro_line>Macro 340</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="58" note="76" type="macro_line">
+			<macro_line>Macro 339</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="59" note="75" type="macro_line">
+			<macro_line>Macro 338</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="60" note="74" type="macro_line">
+			<macro_line>Macro 337</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="61" note="73" type="macro_line">
+			<macro_line>Macro 336</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="62" note="88" type="macro_line">
+			<macro_line>Macro 367</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="63" note="87" type="macro_line">
+			<macro_line>Macro 366</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="64" note="84" type="macro_line">
+			<macro_line>Macro 363</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="65" note="85" type="macro_line">
+			<macro_line>Macro 364</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="66" note="83" type="macro_line">
+			<macro_line>Macro 362</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="67" note="82" type="macro_line">
+			<macro_line>Macro 361</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="68" note="81" type="macro_line">
+			<macro_line>Macro 360</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="69" note="80" type="macro_line">
+			<macro_line>Macro 343</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="70" note="79" type="macro_line">
+			<macro_line>Macro 342</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="71" note="86" type="macro_line">
+			<macro_line>Macro 365</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="72" note="121" type="macro_line">
+			<macro_line>Macro 384</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="73" note="122" type="macro_line">
+			<macro_line>Macro 385</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="74" note="123" type="macro_line">
+			<macro_line>Macro 386</macro_line>
+		</RemoteMidi>
+		<RemoteMidi index="75" note="124" type="macro_line">
+			<macro_line>Macro 387</macro_line>
+		</RemoteMidi>
+	</MidiRemotes>
+</MA>
